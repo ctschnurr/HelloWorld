@@ -14,6 +14,8 @@ namespace HelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("");
             Console.WriteLine("Press any key to exit.");
+
+            // adding notes to test GitHub changes
             var userName = Console.ReadLine();
 
         }
