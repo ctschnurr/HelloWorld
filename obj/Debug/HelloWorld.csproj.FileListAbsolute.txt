@@ -1,0 +1,16 @@
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\w0467914\OneDrive - Nova Scotia Community College\Logic and Programming I\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\ctsch\OneDrive\Documents\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
